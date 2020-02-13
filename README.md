@@ -21,6 +21,12 @@ Faust Edition: http://www.faustedition.net/
 
 TEI Guidelines: https://tei-c.org/release/doc/tei-p5-doc/en/html/index.html <br>
 
+DWDS: https://www.dwds.de/ <br>
+
+Regex Cheatsheet: https://www.cheatography.com/davechild/cheat-sheets/regular-expressions/
+
+
+
 Texte: <br>
 
 The Great A.I. Awakening: https://www.nytimes.com/2016/12/14/magazine/the-great-ai-awakening.html <br>
