@@ -13,6 +13,8 @@ HTML Cheatsheet: http://www.simplehtmlguide.com/cheatsheet.php <br>
 
 Beispiel Fontane Notizbücher: https://fontane-nb.dariah.eu/kaesten.html?n=d2 <br>
 
+Faust Edition: http://www.faustedition.net/
+
 TEI Guidelines: https://tei-c.org/release/doc/tei-p5-doc/en/html/index.html <br>
 
 Texte: <br>
