@@ -9,6 +9,8 @@ GPT-2 Interaktiv: https://talktotransformer.com/ <br>
 
 Are Pop Lyrics Getting More Repetitive? https://pudding.cool/2017/05/song-repetition/ <br>
 
+Pudding Visual Essays: https://pudding.cool/ 
+
 XML Validator: https://www.w3schools.com/xml/xml_validator.asp <br>
 
 HTML Cheatsheet: http://www.simplehtmlguide.com/cheatsheet.php <br>
