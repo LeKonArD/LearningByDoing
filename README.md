@@ -21,6 +21,8 @@ Faust Edition: http://www.faustedition.net/
 
 TEI Guidelines: https://tei-c.org/release/doc/tei-p5-doc/en/html/index.html <br>
 
+TEI Validator: https://teibyexample.org/xquery/TBEvalidator.xq <br>
+
 AntConc: https://www.laurenceanthony.net/software/antconc/ <br>
 
 DWDS: https://www.dwds.de/ <br>
